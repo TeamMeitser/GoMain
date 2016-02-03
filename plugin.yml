@@ -1,0 +1,7 @@
+name: GoMain
+main: GoMain\Main
+author: TeamMeister
+version: "0.1_Alpha"
+api:
+- 1.13.0
+- 2.0.0
